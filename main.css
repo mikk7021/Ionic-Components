@@ -1,3 +1,9 @@
 .marginsection {
-    margin: 50px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.cardsection {
+    max-width: 500px;
+    margin: auto;
 }
